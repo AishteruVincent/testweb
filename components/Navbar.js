@@ -32,6 +32,9 @@ const Navbar = () => {
         <Link href='/contact' passHref>
           <StyledLink>Contact</StyledLink>
         </Link>
+        <Link href='/author' passHref>
+          <StyledLink>Author</StyledLink>
+        </Link>
       </div>
     </Nav>
   );
